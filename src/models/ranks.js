@@ -1,13 +1,5 @@
 const mongoose = require('mongoose');
 
-// mongoose.connect("mongodb+srv://devg05:GFRtxq5uLOq5MHvo@cluster0.zlv7qbe.mongodb.net/jeeranks")
-// .then(()=>{
-//     // console.log("Connected Succ to DB");
-// })
-// .catch((err)=>{
-//     console.log(err);
-// })
-
 // Schema defines the structure of our document like which field is of which data type, we can add validators, etc.
 const devSchema = new mongoose.Schema(
     {   
