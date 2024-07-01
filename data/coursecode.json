@@ -1,0 +1,667 @@
+[
+    {
+        "SL. No.": "1",
+        "ProgramCode": "4101",
+        "ProgramName": "Aerospace Engineering"
+    },
+    {
+        "SL. No.": "2",
+        "ProgramCode": "4102",
+        "ProgramName": "Agricultural and Food Engineering"
+    },
+    {
+        "SL. No.": "3",
+        "ProgramCode": "4103",
+        "ProgramName": "Biological Sciences and Bioengineering"
+    },
+    {
+        "SL. No.": "4",
+        "ProgramCode": "4105",
+        "ProgramName": "Biotechnology and Biochemical Engineering"
+    },
+    {
+        "SL. No.": "5",
+        "ProgramCode": "4106",
+        "ProgramName": "Ceramic Engineering"
+    },
+    {
+        "SL. No.": "6",
+        "ProgramCode": "4107",
+        "ProgramName": "Chemical Engineering"
+    },
+    {
+        "SL. No.": "7",
+        "ProgramCode": "4108",
+        "ProgramName": "Chemical Science and Technology"
+    },
+    {
+        "SL. No.": "8",
+        "ProgramCode": "4109",
+        "ProgramName": "Civil Engineering"
+    },
+    {
+        "SL. No.": "9",
+        "ProgramCode": "410A",
+        "ProgramName": "Computational Engineering"
+    },
+    {
+        "SL. No.": "10",
+        "ProgramCode": "410B",
+        "ProgramName": "Industrial Chemistry"
+    },
+    {
+        "SL. No.": "11",
+        "ProgramCode": "410D",
+        "ProgramName": "Chemical and Biochemical Engineering"
+    },
+    {
+        "SL. No.": "12",
+        "ProgramCode": "410T",
+        "ProgramName": "Electrical Engineering (IC Design and Technology)"
+    },
+    {
+        "SL. No.": "13",
+        "ProgramCode": "410U",
+        "ProgramName": "Environmental Science and Engineering"
+    },
+    {
+        "SL. No.": "14",
+        "ProgramCode": "410Y",
+        "ProgramName": "B.Tech in General Engineering"
+    },
+    {
+        "SL. No.": "15",
+        "ProgramCode": "4110",
+        "ProgramName": "Computer Science and Engineering"
+    },
+    {
+        "SL. No.": "16",
+        "ProgramCode": "4111",
+        "ProgramName": "Electrical Engineering"
+    },
+    {
+        "SL. No.": "17",
+        "ProgramCode": "4112",
+        "ProgramName": "Electrical Engineering (Power and Automation)"
+    },
+    {
+        "SL. No.": "18",
+        "ProgramCode": "4113",
+        "ProgramName": "Electronics Engineering"
+    },
+    {
+        "SL. No.": "19",
+        "ProgramCode": "4114",
+        "ProgramName": "Electronics and Communication Engineering"
+    },
+    {
+        "SL. No.": "20",
+        "ProgramCode": "4115",
+        "ProgramName": "Electronics and Electrical Communication Engineering"
+    },
+    {
+        "SL. No.": "21",
+        "ProgramCode": "4116",
+        "ProgramName": "Electronics and Electrical Engineering"
+    },
+    {
+        "SL. No.": "22",
+        "ProgramCode": "4117",
+        "ProgramName": "Engineering Physics"
+    },
+    {
+        "SL. No.": "23",
+        "ProgramCode": "4118",
+        "ProgramName": "Engineering Science"
+    },
+    {
+        "SL. No.": "24",
+        "ProgramCode": "4119",
+        "ProgramName": "Environmental Engineering"
+    },
+    {
+        "SL. No.": "25",
+        "ProgramCode": "411D",
+        "ProgramName": "B.Tech in Materials Science and Engineering"
+    },
+    {
+        "SL. No.": "26",
+        "ProgramCode": "411E",
+        "ProgramName": "B.Tech in Microelectronics & VLSI"
+    },
+    {
+        "SL. No.": "27",
+        "ProgramCode": "411F",
+        "ProgramName": "B.Tech in Mathematics and Computing"
+    },
+    {
+        "SL. No.": "28",
+        "ProgramCode": "411G",
+        "ProgramName": "Artificial Intelligence and Data Engineering"
+    },
+    {
+        "SL. No.": "29",
+        "ProgramCode": "411L",
+        "ProgramName": "Space Sciences and Engineering"
+    },
+    {
+        "SL. No.": "30",
+        "ProgramCode": "411N",
+        "ProgramName": "Biological Engineering"
+    },
+    {
+        "SL. No.": "31",
+        "ProgramCode": "4121",
+        "ProgramName": "Instrumentation Engineering"
+    },
+    {
+        "SL. No.": "32",
+        "ProgramCode": "4122",
+        "ProgramName": "Manufacturing Science and Engineering"
+    },
+    {
+        "SL. No.": "33",
+        "ProgramCode": "4123",
+        "ProgramName": "Materials Science and Engineering"
+    },
+    {
+        "SL. No.": "34",
+        "ProgramCode": "4124",
+        "ProgramName": "Mathematics and Computing"
+    },
+    {
+        "SL. No.": "35",
+        "ProgramCode": "4125",
+        "ProgramName": "Mechanical Engineering"
+    },
+    {
+        "SL. No.": "36",
+        "ProgramCode": "4126",
+        "ProgramName": "Metallurgical Engineering"
+    },
+    {
+        "SL. No.": "37",
+        "ProgramCode": "4127",
+        "ProgramName": "Metallurgical and Materials Engineering"
+    },
+    {
+        "SL. No.": "38",
+        "ProgramCode": "4128",
+        "ProgramName": "Metallurgical Engineering and Materials Science"
+    },
+    {
+        "SL. No.": "39",
+        "ProgramCode": "4130",
+        "ProgramName": "Mining Engineering"
+    },
+    {
+        "SL. No.": "40",
+        "ProgramCode": "4131",
+        "ProgramName": "Mining Machinery Engineering"
+    },
+    {
+        "SL. No.": "41",
+        "ProgramCode": "4132",
+        "ProgramName": "Naval Architecture and Ocean Engineering"
+    },
+    {
+        "SL. No.": "42",
+        "ProgramCode": "4133",
+        "ProgramName": "Ocean Engineering and Naval Architecture"
+    },
+    {
+        "SL. No.": "43",
+        "ProgramCode": "4134",
+        "ProgramName": "Petroleum Engineering"
+    },
+    {
+        "SL. No.": "44",
+        "ProgramCode": "4136",
+        "ProgramName": "Production and Industrial Engineering"
+    },
+    {
+        "SL. No.": "45",
+        "ProgramCode": "4139",
+        "ProgramName": "Textile Technology"
+    },
+    {
+        "SL. No.": "46",
+        "ProgramCode": "4141",
+        "ProgramName": "Civil and Infrastructure Engineering"
+    },
+    {
+        "SL. No.": "47",
+        "ProgramCode": "4143",
+        "ProgramName": "Bio Engineering"
+    },
+    {
+        "SL. No.": "48",
+        "ProgramCode": "4144",
+        "ProgramName": "Electrical and Electronics Engineering"
+    },
+    {
+        "SL. No.": "49",
+        "ProgramCode": "4161",
+        "ProgramName": "Materials Science and Metallurgical Engineering"
+    },
+    {
+        "SL. No.": "50",
+        "ProgramCode": "4170",
+        "ProgramName": "Industrial and Systems Engineering"
+    },
+    {
+        "SL. No.": "51",
+        "ProgramCode": "4173",
+        "ProgramName": "Pharmaceutical Engineering & Technology"
+    },
+    {
+        "SL. No.": "52",
+        "ProgramCode": "4178",
+        "ProgramName": "Mechatronics Engineering"
+    },
+    {
+        "SL. No.": "53",
+        "ProgramCode": "4181",
+        "ProgramName": "Data Science and Artificial Intelligence"
+    },
+    {
+        "SL. No.": "54",
+        "ProgramCode": "4185",
+        "ProgramName": "Artificial Intelligence"
+    },
+    {
+        "SL. No.": "55",
+        "ProgramCode": "4187",
+        "ProgramName": "Data Science and Engineering"
+    },
+    {
+        "SL. No.": "56",
+        "ProgramCode": "4188",
+        "ProgramName": "Artificial Intelligence and Data Science"
+    },
+    {
+        "SL. No.": "57",
+        "ProgramCode": "4189",
+        "ProgramName": "Mineral and Metallurgical Engineering"
+    },
+    {
+        "SL. No.": "58",
+        "ProgramCode": "4191",
+        "ProgramName": "Biomedical Engineering"
+    },
+    {
+        "SL. No.": "59",
+        "ProgramCode": "4192",
+        "ProgramName": "Engineering and Computational Mechanics"
+    },
+    {
+        "SL. No.": "60",
+        "ProgramCode": "4193",
+        "ProgramName": "Materials Engineering"
+    },
+    {
+        "SL. No.": "61",
+        "ProgramCode": "4194",
+        "ProgramName": "Biosciences and Bioengineering"
+    },
+    {
+        "SL. No.": "62",
+        "ProgramCode": "4198",
+        "ProgramName": "Energy Engineering"
+    },
+    {
+        "SL. No.": "63",
+        "ProgramCode": "4199",
+        "ProgramName": "Biotechnology and Bioinformatics"
+    },
+    {
+        "SL. No.": "64",
+        "ProgramCode": "4201",
+        "ProgramName": "Chemistry"
+    },
+    {
+        "SL. No.": "65",
+        "ProgramCode": "4202",
+        "ProgramName": "Economics"
+    },
+    {
+        "SL. No.": "66",
+        "ProgramCode": "4203",
+        "ProgramName": "Mathematics and Scientific Computing"
+    },
+    {
+        "SL. No.": "67",
+        "ProgramCode": "4204",
+        "ProgramName": "Physics"
+    },
+    {
+        "SL. No.": "68",
+        "ProgramCode": "4205",
+        "ProgramName": "Earth Sciences"
+    },
+    {
+        "SL. No.": "69",
+        "ProgramCode": "4206",
+        "ProgramName": "BS in Mathematics"
+    },
+    {
+        "SL. No.": "70",
+        "ProgramCode": "4207",
+        "ProgramName": "Statistics and Data Science"
+    },
+    {
+        "SL. No.": "71",
+        "ProgramCode": "4208",
+        "ProgramName": "Mathematics and Computing"
+    },
+    {
+        "SL. No.": "72",
+        "ProgramCode": "4209",
+        "ProgramName": "Applied Geology"
+    },
+    {
+        "SL. No.": "73",
+        "ProgramCode": "4210",
+        "ProgramName": "Exploration Geophysics"
+    },
+    {
+        "SL. No.": "74",
+        "ProgramCode": "4211",
+        "ProgramName": "Physics with Specialization"
+    },
+    {
+        "SL. No.": "75",
+        "ProgramCode": "4212",
+        "ProgramName": "Chemistry with Specialization"
+    },
+    {
+        "SL. No.": "76",
+        "ProgramCode": "4213",
+        "ProgramName": "BS in Chemical Sciences"
+    },
+    {
+        "SL. No.": "77",
+        "ProgramCode": "4214",
+        "ProgramName": "Biological Science"
+    },
+    {
+        "SL. No.": "78",
+        "ProgramCode": "5101",
+        "ProgramName": "Architecture"
+    },
+    {
+        "SL. No.": "79",
+        "ProgramCode": "5201",
+        "ProgramName": "Aerospace Engineering"
+    },
+    {
+        "SL. No.": "80",
+        "ProgramCode": "5203",
+        "ProgramName": "Agricultural and Food Engineering with M.Tech. in any of the listed specializations"
+    },
+    {
+        "SL. No.": "81",
+        "ProgramCode": "5204",
+        "ProgramName": "Biochemical Engineering with M.Tech. in Biochemical Engineering and Biotechnology"
+    },
+    {
+        "SL. No.": "82",
+        "ProgramCode": "5206",
+        "ProgramName": "Bioengineering with M.Tech in Biomedical Technology"
+    },
+    {
+        "SL. No.": "83",
+        "ProgramCode": "5208",
+        "ProgramName": "Biotechnology and Biochemical Engineering"
+    },
+    {
+        "SL. No.": "84",
+        "ProgramCode": "5209",
+        "ProgramName": "Ceramic Engineering"
+    },
+    {
+        "SL. No.": "85",
+        "ProgramCode": "5210",
+        "ProgramName": "Chemical Engineering"
+    },
+    {
+        "SL. No.": "86",
+        "ProgramCode": "5213",
+        "ProgramName": "Civil Engineering"
+    },
+    {
+        "SL. No.": "87",
+        "ProgramCode": "5215",
+        "ProgramName": "Civil Engineering with any of the listed specialization"
+    },
+    {
+        "SL. No.": "88",
+        "ProgramCode": "5216",
+        "ProgramName": "Computer Science and Engineering"
+    },
+    {
+        "SL. No.": "89",
+        "ProgramCode": "5217",
+        "ProgramName": "Electrical Engineering"
+    },
+    {
+        "SL. No.": "90",
+        "ProgramCode": "521Q",
+        "ProgramName": "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems"
+    },
+    {
+        "SL. No.": "91",
+        "ProgramCode": "5222",
+        "ProgramName": "Electrical Engineering with M.Tech. in any of the listed specializations"
+    },
+    {
+        "SL. No.": "92",
+        "ProgramCode": "5223",
+        "ProgramName": "Electrical Engineering with M.Tech. in Power Electronics"
+    },
+    {
+        "SL. No.": "93",
+        "ProgramCode": "5225",
+        "ProgramName": "Electronics and Electrical Communication Engineering with M.Tech. in any of the listed specializations"
+    },
+    {
+        "SL. No.": "94",
+        "ProgramCode": "5227",
+        "ProgramName": "Engineering Design"
+    },
+    {
+        "SL. No.": "95",
+        "ProgramCode": "5232",
+        "ProgramName": "Materials Science and Technology"
+    },
+    {
+        "SL. No.": "96",
+        "ProgramCode": "5233",
+        "ProgramName": "Mechanical Engineering"
+    },
+    {
+        "SL. No.": "97",
+        "ProgramCode": "5239",
+        "ProgramName": "Mechanical Engineering with M.Tech. in any of the listed specializations"
+    },
+    {
+        "SL. No.": "98",
+        "ProgramCode": "5240",
+        "ProgramName": "Metallurgical Engineering"
+    },
+    {
+        "SL. No.": "99",
+        "ProgramCode": "5241",
+        "ProgramName": "Industrial and Systems Engineering with M.Tech. in Industrial and Systems Engineering and Management"
+    },
+    {
+        "SL. No.": "100",
+        "ProgramCode": "5243",
+        "ProgramName": "Metallurgical and Materials Engineering"
+    },
+    {
+        "SL. No.": "101",
+        "ProgramCode": "5247",
+        "ProgramName": "Mining Engineering"
+    },
+    {
+        "SL. No.": "102",
+        "ProgramCode": "5248",
+        "ProgramName": "Mining Safety Engineering"
+    },
+    {
+        "SL. No.": "103",
+        "ProgramCode": "5251",
+        "ProgramName": "Ocean Engineering and Naval Architecture"
+    },
+    {
+        "SL. No.": "104",
+        "ProgramCode": "5254",
+        "ProgramName": "Mathematics and Computing"
+    },
+    {
+        "SL. No.": "105",
+        "ProgramCode": "5255",
+        "ProgramName": "Electrical Engineering and M.Tech Power Electronics and Drives"
+    },
+    {
+        "SL. No.": "106",
+        "ProgramCode": "5260",
+        "ProgramName": "Civil Engineering and M.Tech in Transportation Engineering"
+    },
+    {
+        "SL. No.": "107",
+        "ProgramCode": "5267",
+        "ProgramName": "Engineering Physics"
+    },
+    {
+        "SL. No.": "108",
+        "ProgramCode": "5281",
+        "ProgramName": "Manufacturing Science and Engineering with M.Tech. in Industrial and Systems Engineering and Management"
+    },
+    {
+        "SL. No.": "109",
+        "ProgramCode": "5284",
+        "ProgramName": "Mechanical Engineering and M. Tech. in Mechanical System Design"
+    },
+    {
+        "SL. No.": "110",
+        "ProgramCode": "5285",
+        "ProgramName": "Mechanical Engineering and M. Tech. in Thermal Science & Engineering"
+    },
+    {
+        "SL. No.": "111",
+        "ProgramCode": "5286",
+        "ProgramName": "Civil Engineering and M. Tech. in Structural Engineering"
+    },
+    {
+        "SL. No.": "112",
+        "ProgramCode": "5287",
+        "ProgramName": "Mechanical Engineering with M.Tech. in Manufacturing Engineering"
+    },
+    {
+        "SL. No.": "113",
+        "ProgramCode": "5288",
+        "ProgramName": "Civil Engineering and M.Tech. in Environmental Engineering"
+    },
+    {
+        "SL. No.": "114",
+        "ProgramCode": "5290",
+        "ProgramName": "Industrial Chemistry"
+    },
+    {
+        "SL. No.": "115",
+        "ProgramCode": "5291",
+        "ProgramName": "Pharmaceutical Engineering & Technology"
+    },
+    {
+        "SL. No.": "116",
+        "ProgramCode": "5302",
+        "ProgramName": "Geological Technology"
+    },
+    {
+        "SL. No.": "117",
+        "ProgramCode": "5303",
+        "ProgramName": "Geophysical Technology"
+    },
+    {
+        "SL. No.": "118",
+        "ProgramCode": "5305",
+        "ProgramName": "Mathematics and Computing"
+    },
+    {
+        "SL. No.": "119",
+        "ProgramCode": "5306",
+        "ProgramName": "Applied Geology"
+    },
+    {
+        "SL. No.": "120",
+        "ProgramCode": "5307",
+        "ProgramName": "Applied Geophysics"
+    },
+    {
+        "SL. No.": "121",
+        "ProgramCode": "5404",
+        "ProgramName": "B. Tech. (ME) - MBA (NITIE)"
+    },
+    {
+        "SL. No.": "122",
+        "ProgramCode": "5602",
+        "ProgramName": "Physics"
+    },
+    {
+        "SL. No.": "123",
+        "ProgramCode": "5606",
+        "ProgramName": "Mathematics & Computing"
+    },
+    {
+        "SL. No.": "124",
+        "ProgramCode": "5607",
+        "ProgramName": "Chemical Sciences"
+    },
+    {
+        "SL. No.": "125",
+        "ProgramCode": "5608",
+        "ProgramName": "Economics"
+    },
+    {
+        "SL. No.": "126",
+        "ProgramCode": "5609",
+        "ProgramName": "Interdisciplinary Sciences"
+    },
+    {
+        "SL. No.": "127",
+        "ProgramCode": "5A03",
+        "ProgramName": "B. Tech in CE. - M. Tech. in Geotechnical Engineering"
+    },
+    {
+        "SL. No.": "128",
+        "ProgramCode": "5A04",
+        "ProgramName": "B. Tech in CE. - M. Tech. in Structural Engineering"
+    },
+    {
+        "SL. No.": "129",
+        "ProgramCode": "5A05",
+        "ProgramName": "B. Tech. (CSE) and M.Tech in CSE"
+    },
+    {
+        "SL. No.": "130",
+        "ProgramCode": "5A06",
+        "ProgramName": "B. Tech. (ECE) -M. Tech. in VLSI"
+    },
+    {
+        "SL. No.": "131",
+        "ProgramCode": "5A07",
+        "ProgramName": "B. Tech. (EEE)-M. Tech. in (Power &. Control)"
+    },
+    {
+        "SL. No.": "132",
+        "ProgramCode": "5A09",
+        "ProgramName": "B. Tech. (Mathematics & Computing) M. Tech. in (Mathematics & Computing)"
+    },
+    {
+        "SL. No.": "133",
+        "ProgramCode": "5A10",
+        "ProgramName": "B. Tech. (ME) - M. Tech. in Mechatronics"
+    }
+]
