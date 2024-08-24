@@ -18,7 +18,7 @@ document.getElementById('rankForm').addEventListener('submit', async function (e
         }
 
         const data = await response.json();
-
+        
         const resultContent = document.getElementById('resultContent');
         resultContent.innerHTML = '';
         if (data.data.length > 0) {
